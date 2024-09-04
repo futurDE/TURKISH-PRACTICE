@@ -1,0 +1,19 @@
+.practice-area {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.turkish {
+    visibility: hidden;
+}
+
+/*Style to be added dynamically with JavaScript*/
+.show-turkish {
+    visibility: visible;
+}
+
+.buttons-section {
+    margin-top: 20px;
+}
