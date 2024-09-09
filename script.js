@@ -158,11 +158,216 @@ const questionBank = {
     },
     38: {
         questoin: "I understand",
-        answer: "",
+        answer: "anladım",
     },
     39: {
-        question: "",
-        answer: "",
+        question: "how (past tense)",
+        answer: "nasıldı",
+    },
+    40: {
+        question: "Sir",
+        answer: "beyefendi",
+    },
+    41: {
+        question: "Madam",
+        answer: "hanımefendi",
+    },
+    42: {
+        question: "to stay",
+        answer: "kalmak",
+    },
+    43: {
+        question: "I stayed",
+        answer: "kaldım"
+    },
+    44: {
+        question: "you stayed",
+        answer: "kaldın",
+    },
+    45: {
+        question: "we stayed",
+        answer: "kaldık",
+    },
+    46: {
+        question: "they stayed",
+        answer: "kaldılar",
+    },
+    47: {
+        question: "I stay",
+        answer: "kalıyorum",
+    },
+    48: {
+        question: "you stay",
+        answer: "kalıyorsun"
+    },
+    49: {
+        question: "we stay",
+        answer: "kalıyoruz"
+    },
+    50: {question: "they stay",
+        answer: "kalıyorlar",
+    },
+    51: {question: "he/she/it stays",
+        answer: "kalıyor",
+    },
+    52: {question: "you all stay",
+        answer: "kalıyorsunuz",
+    },
+    53: {
+        question: "to search for/to look for",
+        answer: "aramak",
+    },
+    54: {
+        question: "type",
+        answer: "tür",
+    },
+    55: {
+        question: "software",
+        answer: "yazılım",
+    },
+    56: {
+        question: "engineer",
+        answer: "mühendis",
+    },
+    57: {
+        question: "interesting",
+        answer: "ilginç",
+    },
+    58: {
+        question: "experience",
+        answer: "deneyim",
+    },
+    59: {
+        question: "to listen",
+        answer: "duymak"
+    },
+    60: {
+        question: "to work",
+        answer: "çalışmak",
+    },
+    61: {
+        question: "building",
+        answer: "bina",
+    },
+    62: {
+        question: "appearance",
+        answer: "görünüm",
+    },
+    63: {
+        question: "aspect",
+        answer: "yön",
+    },
+    64: {
+        question: "while working",
+        answer: "çalışırken",
+    },
+    65: {
+        question: "en",
+        answer: "most",
+    },
+    66: {
+        question: "sentence",
+        answer: "cumle",
+    },
+    67: {
+        question: "analysis",
+        answer: "analizi",
+    },
+    68: {
+        question: "network",
+        answer: "şebeke",
+    },
+    69: {
+        question: "electricity",
+        answer: "elektrik",
+    },
+    70: {
+        question: "supply",
+        answer: "arzı",
+    },
+    71: {
+        question: "from the networks",
+        answer: "şebekelerinden",
+    },
+    72: {
+        question: "regular",
+        answer: "düzenli",
+    },
+    73: {
+        question: "January",
+        answer: "Ocak",
+    },
+    74: {
+        question: "February",
+        answer: "Şubat",
+    },
+    75: {
+        question: "March",
+        answer: "Mart",
+    },
+    76: {
+        question: "April",
+        answer: "Nisan",
+    },
+    77: {
+        question: "May",
+        answer: "Mayıs",
+    },
+    78: {
+        question: "June",
+        answer: "Haziran",
+    },
+    79: {
+        question: "July",
+        answer: "Temmuz",
+    },
+    80: {
+        question: "August",
+        answer: "Ağustos",
+    },
+    81: {
+        question: "September",
+        answer: "Eylül",
+    },
+    82: {
+        question: "October",
+        answer: "Ekim",
+    },
+    83: {
+        question: "November",
+        answer: "Kasım",
+    },
+    84: {
+        question: "December",
+        answer: "Aralık",
+    },
+    85: {
+        question: "Sunday",
+        answer: "Pazar",
+    },
+    86: {
+        question: "Monday",
+        answer: "Pazartesi",
+    },
+    87: {
+        question: "Teusday",
+        answer: "Salı",
+    },
+    88: {
+        question: "Wednesday",
+        answer: "Çarşamba",
+    },
+    89: {
+        question: "Thursday",
+        answer: "Perşembe",
+    },
+    90: {
+        question: "Friday",
+        answer: "Cuma",
+    },
+    91: {
+        question: "Saturday",
+        answer: "Cumartesi"
     },
 };
 
