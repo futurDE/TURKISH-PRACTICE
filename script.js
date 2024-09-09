@@ -371,6 +371,10 @@ const questionBank = {
     },
 };
 
+for (let x in questionBank) {
+    console.log(questionBank[x]);
+}
+
 document.addEventListener("keydown", (event) => {
     if (event.key == "Enter") {
         event.preventDefault();
