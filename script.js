@@ -157,7 +157,7 @@ const questionBank = {
         answer: "anlamak",
     },
     38: {
-        questoin: "I understand",
+        question: "I understand",
         answer: "anladım",
     },
     39: {
@@ -262,8 +262,8 @@ const questionBank = {
         answer: "çalışırken",
     },
     65: {
-        question: "en",
-        answer: "most",
+        question: "most",
+        answer: "en",
     },
     66: {
         question: "sentence",
@@ -368,6 +368,78 @@ const questionBank = {
     91: {
         question: "Saturday",
         answer: "Cumartesi"
+    },
+    92: {
+        question: "vowel",
+        answer: "ünlü",
+    },
+    93: {
+        question: "vowels",
+        answer: "ünlüler"
+    },
+    94: {
+        question: "back vowels",
+        answer: "kalın ünlüler",
+    },
+    95: {
+        question: "kalın ünlüler",
+        answer: "a, ı, o, u"
+    },
+    96: {
+        question: "ünlüler",
+        answer: "a, e, ı, i, o, ö, u, ü",
+    },
+    97: {
+        question: "front vowels",
+        answer: "ince ünlüler",
+    },
+    98: {
+        question: "ince ünüler",
+        answer: "e, i, ö, ü",
+    },
+    99: {
+        question: "plural",
+        answer: "çoğul",
+    },
+    100: {
+        question: "plurality",
+        answer: "çoğulluk"
+    },
+    101: {
+        question: "plural suffix",
+        answer: "çoğul ek",
+    },
+    102: {
+        question: "urgent",
+        answer: "acil",
+    },
+    103: {
+        question: "emergency",
+        answer: "acil",
+    },
+    104: {
+        question: "emergency numbers",
+        answer: "acil telefonlar",
+    },
+    105: {
+        question: "fire department",
+        answer: "itfaiye",
+    },
+    106: {
+        question: "fire fighter",
+        answer: "itfaiyeci",
+    },
+    107: {
+        question: "abulance",
+        answer: "ilk yardım/ambulans",
+    },
+    108: {
+        question: "date",
+        answer: "tarih",
+    },
+    109: {
+        question: "saying the date",
+        answer: "tarihi söylemek",
     },
 };
 
