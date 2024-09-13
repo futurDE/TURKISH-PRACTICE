@@ -441,6 +441,94 @@ const questionBank = {
         question: "saying the date",
         answer: "tarihi söylemek",
     },
+    110: {
+        question: "country",
+        answer: "ülke",
+    },
+    111: {
+        question: "nationality",
+        answer: "milliyet",
+    },
+    112: {
+        question: "state",
+        answer: "devlet",
+    },
+    113: {
+        question: "united",
+        answer: "birleşik",
+    },
+    114: {
+        question: "kingdom",
+        answer: "krallık",
+    },
+    115: {
+        question: "british",
+        answer: "ingiltere",
+    },
+    116: {
+        question: "He is English",
+        answer: "O İngiltereli/O İngiliz",
+    },
+    117: {
+        question: "United States of America",
+        answer: "Amerika Birleşik Devletleri",
+    },
+    118: {
+        question: "Germany",
+        answer: "Almanya",
+    },
+    119: {
+        question: "China",
+        answer: "Çin",
+    },
+    120: {
+        question: "France",
+        answer: "Fransa",
+    },
+    121: {
+        question: "India",
+        answer: "Hindistan",
+    },
+    122: {
+        question: "Belgium",
+        answer: "Belçika",
+    },
+    123: {
+        question: "Spain",
+        answer: "İspanya",
+    },
+    124: {
+        question: "Italy",
+        answer: "İtalya",
+    },
+    125: {
+        question: "Japan",
+        answer: "Japonya",
+    },
+    126: {
+        question: "Canada",
+        answer: "Kanada",
+    },
+    127: {
+        question: "Pakistan",
+        answer: "Pakistan",
+    },
+    128: {
+        question: "Poland",
+        answer: "Polonya",
+    },
+    129: {
+        question: "Portugal",
+        answer: "Portekiz",
+    },
+    130: {
+        question: "Russia",
+        answer: "Rusya",
+    },
+    131: {
+        question: "diverse",
+        answer: "çeşitli",
+    },
 };
 
 for (let x in questionBank) {
