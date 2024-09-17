@@ -529,6 +529,110 @@ const questionBank = {
         question: "diverse",
         answer: "çeşitli",
     },
+    132: {
+        question: "not coming",
+        answer: "gelmiyor",
+    },
+    133: {
+        question: "what's the weather like?",
+        answer: "hava nasıl",
+    },
+    134: {
+        question: "wet",
+        answer: "ıslak",
+    },
+    135: {
+        question: "cloud",
+        answer: "bulut",
+    },
+    136: {
+        question: "rain",
+        answer: "yağmur",
+    },
+    137: {
+        question: "snow",
+        answer: "kar",
+    },
+    138: {
+        question: "it's sunny",
+        answer: "hava güneşlsi",
+    },
+    139: {
+        question: "it's cloudy",
+        answer: "hava bulutlu",
+    },
+    140: {
+        question: "it's rainy",
+        answer: "hava yağmurlu",
+    },
+    141: {
+        question: "it's snowy",
+        answer: "hava karlı",
+    },
+    142: {
+        question: "wind",
+        answer: "rüzgar",
+    },
+    143: {
+        question: "it's windy",
+        answer: "hava rüzgarlı",
+    },
+    144: {
+        question: "fog",
+        answer: "sis",
+    },
+    145: {
+        question: "it's foggy",
+        answer: "hava sisli",
+    },
+    146: {
+        question: "there",
+        answer: "orada",
+    },
+    147: {
+        question: "here",
+        answer: "burada",
+    },
+    148: {
+        question: "what's the weather like there?",
+        answer: "orada hava nasıl",
+    },
+    149: {
+        question: "it's sunny here",
+        answer: "burada hava güneşli",
+    },
+    150: {
+        question: "locative case (ya or da)",
+        answer: "da",
+    },
+    151: {
+        question: "the weather is cloudy in İnstanbul",
+        answer: "İnstanbul'da hava bulutlu",
+    },
+    152: {
+        question: "city",
+        answer: "şehir",
+    },
+    153: {
+        question: "İnstanbul is a city",
+        answer: "İnstanbul bir şehir",
+    },
+    154: {
+        question: "to use",
+        answer: "kullanmak"
+    },
+    155: {
+        question: "which one should I use?",
+        answer: "hangisini kullanayım",
+    },
+    156: {
+        question: "negative sentence",
+        answer: "negatif cümle",
+    },
+    157: {
+        question: "angry",
+        answer: "sinirli",
+    },
 };
 
 for (let x in questionBank) {
