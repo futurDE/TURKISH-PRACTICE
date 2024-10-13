@@ -1709,6 +1709,66 @@ const questionBank = {
         question: "to give",
         answer: "vermek",
     },
+    427: {
+        question: "to feel",
+        answer: "hissetmek",
+    },
+    428: {
+        question: "generally",
+        answer: "genelikle",
+    },
+    429: {
+        question: "moreover",
+        answer: "ayrıca",
+    },
+    430: {
+        question: "delicious",
+        answer: "lezzetli",
+    },
+    431: {
+        question: "new",
+        answer: "yeni",
+    },
+    432: {
+        question: "question",
+        answer: "soru",
+    },
+    433: {
+        question: "answer",
+        answer: "cevap",
+    },
+    434: {
+        question: "hardworking",
+        answer: "çalışkan",
+    },
+    435: {
+        question: "ready",
+        answer: "hazır",
+    },
+    436: {
+        question: "bad",
+        answer: "kötü",
+    },
+    437: {
+        question: "crowded",
+        answer: "kalabalık",
+    },
+    438: {
+        question: "to be",
+        answer: "olmak",
+    },
+    439: {
+        question: "will be",
+        answer: "olacak",
+    },
+    440: {
+        question: "muzeum",
+        answer: "müze",
+    },
+    441: {
+        question: "bag",
+        answer: "çanta",
+    },
 };
 
 for (let x in questionBank) {
