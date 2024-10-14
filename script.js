@@ -1769,6 +1769,18 @@ const questionBank = {
         question: "bag",
         answer: "çanta",
     },
+    442: {
+        question: "bedroom",
+        answer: "yatak odası",
+    },
+    443: {
+        question: "where is this place",
+        answer: "burası neresi",
+    },
+    444: {
+        question: "where is that place",
+        answer: "orası neresi",
+    },
 };
 
 for (let x in questionBank) {
